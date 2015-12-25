@@ -4,6 +4,7 @@
 int main()
 {
   printf("hi from Quentin");
-  
+  printf("hi from Sam")
+
 return(0);
 }
